@@ -1,0 +1,12 @@
+com\viswa\springsecdemo\controller\TestBankWebApplication.class
+com\viswa\springsecdemo\controller\AccountController.class
+com\viswa\springsecdemo\model\Customer.class
+com\viswa\springsecdemo\controller\UserController.class
+com\viswa\springsecdemo\repository\CustomerRepository.class
+com\viswa\springsecdemo\controller\NoticesController.class
+com\viswa\springsecdemo\controller\CardsController.class
+com\viswa\springsecdemo\service\TestBankUserDetailsService.class
+com\viswa\springsecdemo\controller\ContactController.class
+com\viswa\springsecdemo\controller\LoansController.class
+com\viswa\springsecdemo\controller\BalanceController.class
+com\viswa\springsecdemo\config\ProjectSecurityConfig.class
