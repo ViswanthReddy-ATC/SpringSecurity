@@ -1,0 +1,12 @@
+name: first_workflow
+on: workflow_dispatch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Hello World
+        run: echo Hello World!
+      - name: Run Multiline Script
+        run : |
+            echo Add another actions to the project
+            echo Add test , deploy comands to the project
